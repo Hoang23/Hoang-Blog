@@ -18,11 +18,9 @@ bio: I like to create personal pet projects, work with different technology and 
 
 # Interests to show in About widget
 interests:
-- Python, C++
-- Data analysis and visualisation
-- Algorithms and data structures
-- Cloud Computing - AWS
-- Linux
+- Software development
+- IT Infrastructure
+- Python, Linux, Docker, AWS
 
 # Education to show in About widget
 education:
@@ -71,4 +69,4 @@ email: ""
 Fascinated with technology, psychology and computer science, I have been learning different skills to aid my ability to explore these prospects. I am sharing my learning journey through my blog posts and projects to discover places of improvements and to revisit my progression.
 
 <!-- resume -->
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/hoangResume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1Q-qoNygDiehCsVHNZT5kQpK3xM9xslU6/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
