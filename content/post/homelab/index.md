@@ -31,4 +31,8 @@ Synology NAS - file system
 
 Intel NUC - Type 1 hypervisor
 - VMware ESXi was installed as the acting OS. Nas was mounted through NFS in order to store the VMs on. 
-- Debian and ubuntu-desktop virtual machines are accessed through ssh and both mount folders from the NAS through NFS
+- Debian and ubuntu-desktop virtual machines are accessed through ssh and both mount folders from the NAS through CIFS
+- Some vms require a static ip. That can be done on the router or client, in this case it was configured on the client in /etc/network/interfaces
+- Finally all the vms required same basic installations and configurations. The below script was ran on every install with "yes | sh script.sh"
+
+<script src="https://gist.github.com/Hoang23/ea18dff05443b90fc2622350c8f6ec5d.js"></script>
