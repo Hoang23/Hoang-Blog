@@ -72,3 +72,5 @@ My desktop environment currently consists of Debian Linux with KDE. I'm also lea
 
 <!-- resume -->
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1Q-qoNygDiehCsVHNZT5kQpK3xM9xslU6/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="portrait" pack="fas" >}} Check out my frontend {{< staticref "https://hoangh-portfolio.netlify.app/" "newtab" >}}portfolio{{< /staticref >}}.
